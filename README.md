@@ -99,19 +99,16 @@ Powered by **Google Gemini 3.6 Flash** via serverless backend API endpoints, Cyb
 
 ---
 
+
 ## 📸 Screenshots
 
-> *Replace placeholders with actual application screenshots.*
-
-| Dashboard Intelligence Center | URL Phishing Inspector |
+| Dashboard | URL Scanner |
 | :---: | :---: |
-| ![Dashboard Screenshot](https://via.placeholder.com/600x350/0f172a/38bdf8?text=CyberSentinel+Dashboard) | ![URL Inspector Screenshot](https://via.placeholder.com/600x350/0f172a/38bdf8?text=URL+Phishing+Inspector) |
+| ![Dashboard](screenshots/Dashboard.png) | ![URL Scanner](screenshots/URL-Scanner.png) |
 
-| Email Scam Analyzer | SecOps AI Assistant |
+| Email Analyzer | AI Assistant |
 | :---: | :---: |
-| ![Email Analyzer Screenshot](https://via.placeholder.com/600x350/0f172a/38bdf8?text=Email+Scam+Analyzer) | ![AI Assistant Screenshot](https://via.placeholder.com/600x350/0f172a/38bdf8?text=SecOps+AI+Assistant) |
-
----
+| ![Email Analyzer](screenshots/Email-Analyzer.png) | ![AI Assistant](screenshots/AI-Assistant.png) |
 
 ## 🔗 Live Demo \& Repository
 
