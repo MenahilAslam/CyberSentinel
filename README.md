@@ -104,12 +104,11 @@ Powered by **Google Gemini 3.6 Flash** via serverless backend API endpoints, Cyb
 
 | Dashboard | URL Scanner |
 | :---: | :---: |
-| ![Dashboard](screenshots/Dashboard.png) | ![URL Scanner](screenshots/URL-Scanner.png) |
+| ![Dashboard](Screenshots/Dashboard.png) | ![URL Scanner](Screenshots/URL-Scanner.png) |
 
 | Email Analyzer | AI Assistant |
 | :---: | :---: |
-| ![Email Analyzer](screenshots/Email-Analyzer.png) | ![AI Assistant](screenshots/AI-Assistant.png) |
-
+| ![Email Analyzer](Screenshots/Email-Analyzer.png) | ![AI Assistant](Screenshots/AI-Assistant.png) |
 ## 🔗 Live Demo \& Repository
 
 - 🚀 **Live Application**: [https://cyber-sentinel-nu.vercel.app/](https://cyber-sentinel-nu.vercel.app/)
