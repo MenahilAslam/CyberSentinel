@@ -77,7 +77,38 @@ Powered by **Google Gemini 3.6 Flash** via serverless backend API endpoints, Cyb
 - **Persistent Local Engine**: Client-side localStorage persistence for seamless audit history across sessions without external database latency.
 
 ---
+---
 
+# 🤖 AI Feature
+
+CyberSentinel integrates **Google Gemini 3.6 Flash** to provide intelligent cybersecurity assistance. The AI analyzes user queries, explains cyber threats, and offers practical security recommendations.
+
+## What the AI Does
+
+- Analyzes cybersecurity-related questions.
+- Explains phishing attacks and email scams.
+- Provides incident response guidance.
+- Recommends security best practices.
+- Uses previous conversation context to improve response quality.
+- Automatically provides a built-in security advisory if the AI service is temporarily unavailable.
+
+## AI Instructions / System Prompt
+
+The AI behavior is controlled through a **custom system prompt written specifically for this project**.
+
+The AI is instructed to:
+
+- Act as **CyberSentinel AI**, a Senior Cybersecurity Incident Responder, Threat Analyst, and Ethical Hacker.
+- Provide accurate, professional, and actionable cybersecurity guidance.
+- Use Markdown formatting with headings, bullet points, and code blocks where appropriate.
+- Use previous conversation context when generating responses.
+- Focus only on cybersecurity topics.
+- Recommend practical mitigation steps and security best practices.
+- Generate comprehensive, educational, and well-structured responses.
+
+**AI Model:** Google Gemini 3.6 Flash
+
+---
 ## 🛠️ Technologies Used
 
 ### Frontend Stack
