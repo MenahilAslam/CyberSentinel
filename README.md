@@ -14,7 +14,7 @@
 <p align="center">
   <b>An intelligent, full-stack cybersecurity application designed to detect phishing links, analyze email scams, guide incident response, and train SecOps professionals.</b>
   <br />
-  <i>University Final Project by Menahil Aslam</i>
+  <i>Final Project by Menahil Aslam</i>
 </p>
 
 ---
