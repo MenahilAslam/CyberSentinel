@@ -144,7 +144,7 @@ The AI is instructed to:
 | Email Analyzer | AI Assistant |
 | :---: | :---: |
 | ![Email Analyzer](Screenshots/Email-Analyzer.png) | ![AI Assistant](Screenshots/AI-Assistant.png) |
---
+---
 ## 🚀 Getting Started
 
 Follow these instructions to set up and run CyberSentinel locally on your machine.
