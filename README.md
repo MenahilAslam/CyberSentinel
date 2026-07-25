@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🛡️ CyberSentinel AI
+# 🛡️ CyberSentinel
 
 ### Enterprise-Grade AI-Powered Cybersecurity & SecOps Intelligence Platform
 
@@ -43,7 +43,7 @@
 
 ## 🔍 Overview
 
-**CyberSentinel AI** is an advanced enterprise-grade cybersecurity threat intelligence platform built to mitigate modern digital threat vectors such as spear-phishing, typosquatting, credential harvesting, business email compromise (BEC), and zero-day vulnerabilities.
+**CyberSentinel** is an advanced enterprise-grade cybersecurity threat intelligence platform built to mitigate modern digital threat vectors such as spear-phishing, typosquatting, credential harvesting, business email compromise (BEC), and zero-day vulnerabilities.
 
 Powered by **Google Gemini 3.6 Flash** via serverless backend API endpoints, CyberSentinel delivers real-time URL risk scoring, multi-layered email heuristic analysis, and actionable SecOps incident response playbooks within a sleek, high-contrast dark cybersecurity dashboard.
 
