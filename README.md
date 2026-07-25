@@ -22,23 +22,22 @@
 </div>
 
 ## 📌 Table of Contents
-
-- [Overview](#-overview)
-- [Key Features](#-key-features)
-- [Architecture \& Tech Stack](#-architecture--tech-stack)
-- [Screenshots](#-screenshots)
-- [Live Demo \& Repository](#-live-demo--repository)
-- [Getting Started](#-getting-started)
+- [Overview](#overview)
+- [Key Features](#key-features)
+- [AI Feature](#ai-feature)
+- [Architecture & Tech Stack](#architecture--tech-stack)
+- [Screenshots](#screenshots)
+- [Live Demo & Repository](#live-demo--repository)
+- [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
-  - [Environment Variables](#environment-variables)
-- [Usage](#-usage)
-- [Project Structure](#-project-structure)
-- [Future Improvements](#-future-improvements)
-- [Contributing](#-contributing)
-- [License](#-license)
-- [Author](#-author)
-
+- [Environment Variables](#environment-variables)
+- [Usage](#usage)
+- [Project Structure](#project-structure)
+- [Future Improvements](#future-improvements)
+- [Contributing](#contributing)
+- [License](#license)
+- [Author](#author)
 ---
 
 ## 🔍 Overview
