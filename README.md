@@ -256,5 +256,5 @@ This project is open-source and available under the [MIT License](LICENSE).
 ---
 
 <div align="center">
-  <sub>Built with ❤️ as a University Final Project. Protected by CyberSentinel AI.</sub>
+  <sub>Built with ❤️ as a Final Project. Protected by CyberSentinel AI.</sub>
 </div>
