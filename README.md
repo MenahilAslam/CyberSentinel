@@ -24,7 +24,7 @@
 ## 📌 Table of Contents
 - [Overview](#-overview)
 - [Key Features](#-key-features)
-- [AI Features](#-AI-features)
+- [AI Feature](#-AI-feature)
 - [Screenshots](#-screenshots)
 - [Live Demo \& Repository](#-live-demo--repository)
 - [Getting Started](#-getting-started)
