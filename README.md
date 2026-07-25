@@ -23,10 +23,10 @@
 
 ## 📌 Table of Contents
 - [Overview](#-overview)
+- [Live Demo \& Repository](#-live-demo--repository)
 - [Key Features](#-key-features)
 - [AI Feature](#-AI-feature)
 - [Screenshots](#-screenshots)
-- [Live Demo \& Repository](#-live-demo--repository)
 - [Getting Started](#-getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
@@ -45,6 +45,12 @@
 **CyberSentinel** is an advanced enterprise-grade cybersecurity threat intelligence platform built to mitigate modern digital threat vectors such as spear-phishing, typosquatting, credential harvesting, business email compromise (BEC), and zero-day vulnerabilities.
 
 Powered by **Google Gemini 3.6 Flash** via serverless backend API endpoints, CyberSentinel delivers real-time URL risk scoring, multi-layered email heuristic analysis, and actionable SecOps incident response playbooks within a sleek, high-contrast dark cybersecurity dashboard.
+
+---
+## 🔗 Live Demo \& Repository
+
+- 🚀 **Live Application**: [https://cyber-sentinel-nu.vercel.app/](https://cyber-sentinel-nu.vercel.app/)
+- 📦 **GitHub Repository**: [https://github.com/MenahilAslam/CyberSentinel](https://github.com/MenahilAslam/CyberSentinel)
 
 ---
 
@@ -138,12 +144,6 @@ The AI is instructed to:
 | Email Analyzer | AI Assistant |
 | :---: | :---: |
 | ![Email Analyzer](Screenshots/Email-Analyzer.png) | ![AI Assistant](Screenshots/AI-Assistant.png) |
-## 🔗 Live Demo \& Repository
-
-- 🚀 **Live Application**: [https://cyber-sentinel-nu.vercel.app/](https://cyber-sentinel-nu.vercel.app/)
-- 📦 **GitHub Repository**: [https://github.com/MenahilAslam/CyberSentinel](https://github.com/MenahilAslam/CyberSentinel)
-
----
 
 ## 🚀 Getting Started
 
