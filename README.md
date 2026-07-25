@@ -77,7 +77,6 @@ Powered by **Google Gemini 3.6 Flash** via serverless backend API endpoints, Cyb
 - **Persistent Local Engine**: Client-side localStorage persistence for seamless audit history across sessions without external database latency.
 
 ---
----
 
 # 🤖 AI Feature
 
