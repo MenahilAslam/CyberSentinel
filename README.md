@@ -1,2 +1,20 @@
-# CyberSentinel
-CyberSentinel AI is an enterprise-grade cybersecurity intelligence application designed to protect organizations and users against phishing links, email scams, credential harvesting, and zero-day threat vectors. Powered by Google Gemini AI and built on serverless architecture.
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
+</div>
+
+# Run and deploy your AI Studio app
+
+This contains everything you need to run your app locally.
+
+View your app in AI Studio: https://ai.studio/apps/abdced6c-e5de-4a59-b62f-44d3a1d20386
+
+## Run Locally
+
+**Prerequisites:**  Node.js
+
+
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`
