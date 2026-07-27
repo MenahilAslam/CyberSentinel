@@ -12,7 +12,7 @@
 [![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](LICENSE)
 
 <p align="center">
-  <b>An intelligent, full-stack cybersecurity application designed to detect phishing links, analyze email scams, guide incident response, and train SecOps professionals.</b>
+  <b>An AI-powered cybersecurity platform for phishing detection, email scam analysis, incident response guidance, and cybersecurity learning.</b>
   <br />
   <i>Final Project by Menahil Aslam</i>
 </p>
