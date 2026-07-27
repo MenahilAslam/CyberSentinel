@@ -42,9 +42,8 @@
 
 ## 🔍 Overview
 
-**CyberSentinel** is an advanced enterprise-grade cybersecurity threat intelligence platform built to mitigate modern digital threat vectors such as spear-phishing, typosquatting, credential harvesting, business email compromise (BEC), and zero-day vulnerabilities.
-
-Powered by **Google Gemini 3.6 Flash** via serverless backend API endpoints, CyberSentinel delivers real-time URL risk scoring, multi-layered email heuristic analysis, and actionable SecOps incident response playbooks within a sleek, high-contrast dark cybersecurity dashboard.
+Cyber attacks are increasing rapidly, but most people—especially non-technical users—lack the awareness needed to identify phishing emails, malicious links, and online scams. As a cybersecurity student, I experienced this gap firsthand and wanted to build a practical solution.
+**CyberSentinel** is an AI-powered cybersecurity platform designed to bridge that gap. It enables anyone, regardless of technical background, to analyze suspicious URLs and emails, understand why they may be dangerous, and receive clear, actionable security guidance. By combining AI with cybersecurity best practices, CyberSentinel transforms classroom security concepts into a practical, everyday tool that helps users make safer decisions online
 
 ---
 ## 🔗 Live Demo \& Repository
