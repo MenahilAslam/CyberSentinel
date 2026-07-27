@@ -2,7 +2,7 @@
 
 # 🛡️ CyberSentinel
 
-### Enterprise-Grade AI-Powered Cybersecurity & SecOps Intelligence Platform
+### AI-Powered Cybersecurity Threat Detection Platform
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://cyber-sentinel-nu.vercel.app/)
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MenahilAslam/CyberSentinel)
