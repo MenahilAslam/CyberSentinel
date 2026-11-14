@@ -1,0 +1,6 @@
+{
+  "name": "CyberSentinel AI",
+  "description": "AI-Powered Enterprise Cybersecurity Intelligence & Threat Defense Platform",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
